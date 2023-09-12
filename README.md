@@ -13,7 +13,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a ML Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a ML Researcher / Computational Biologist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
 - :telescope: I’m working as a ML Researcher focusing on time-series data
 
 - :seedling: Exploring Deep Learning.

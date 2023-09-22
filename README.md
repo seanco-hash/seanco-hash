@@ -20,6 +20,8 @@ I am a ML Researcher / Computational Biologist <img src="https://media.giphy.com
 
 - :zap: In my free time, I solve some kaggles and try out new tools.
 
+- 🌱 I’m currently learning about diffusion models
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sean-cohen-34a780171/)
 <!--
 **seanco-hash/seanco-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
